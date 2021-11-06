@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kaunas Weather</string>
+    <string name="temperature_text">%1$.0f °C</string>
+    <string name="default_city">Kaunas</string>
+    <string name="default_units">metric</string>
+    <string name="api_token">Place Token</string>
+    <string name="on_error">Unable to retrieve temperature. Try again.</string>
+</resources>
